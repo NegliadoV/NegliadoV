@@ -53,15 +53,6 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=NegliadoV">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=NegliadoV&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegliadoV">
           <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegliadoV&theme=dracula"/>
         </a>
