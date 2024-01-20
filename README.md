@@ -1,4 +1,4 @@
-### `$ whoami`
+
 
 ### Hi there, I'm Stanislav ✔️
 
